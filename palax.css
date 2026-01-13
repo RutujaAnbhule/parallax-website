@@ -1,0 +1,109 @@
+body,html{
+    height: 100%;
+    margin: 0;
+    font-size:16px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+.pimg1{
+    background-image: url("image3.png");
+    min-height: 100%;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.pimg2{
+    background-image: url("image1.png");
+    min-height: 100%;
+     position: relative;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.pimg3{
+    background-image: url("image2.png");
+    min-height: 100%;
+     position: relative;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.ptext{
+    position: absolute;
+    text-transform: uppercase;
+    top:  50%;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 8px;
+    
+}
+.textbg{
+    background: #313534;
+    color: white;
+    padding: 20px;
+}
+h2{
+    text-align: center;
+    text-transform: uppercase;
+   
+}
+#p1{
+    
+     text-align: center;
+     padding-bottom: 50px;
+     padding-left: 50px;
+     padding-right: 50px;
+
+}
+.section1{
+    color: #313534;
+    background: white;
+}
+.ptext2{
+    position: absolute;
+    text-transform: uppercase;
+    top:  40%;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 8px;
+}
+.textbg2{
+    color: white;
+    padding: 20px;
+    background: #666;
+}
+.section2{
+    background-color: #313534;
+    padding: 50px 80px;
+    
+}
+#p2{
+    text-align: center;
+}
+
+.ptext3{
+     position: absolute;
+    text-transform: uppercase;
+    top:  40%;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 8px;
+}
+.textbg3{
+    color: white;
+    padding: 20px;
+    background: #666;
+}
+.section3{
+    padding: 50px 80px;
+    background: white;
+}
+#p3{
+    text-align: center;
+}
